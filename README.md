@@ -85,7 +85,8 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=wave&color=00FF66&height=100&section=footer" width="100%" />
+        
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=100&color=00FF66&section=footer" width="100%" />
 </p>
 
 <!-- FOOTER VISITOR COUNTER -->
