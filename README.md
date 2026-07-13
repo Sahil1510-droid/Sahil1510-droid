@@ -77,15 +77,9 @@
 
 <!-- FOOTER VISITOR COUNTER -->
 <p align="center">
-
 <code>⚡ SYSTEM STATUS: OPERATIONAL</code>
-
 <br><br>
-
 <img src="https://komarev.com/ghpvc/?username=Sahil1510-droid&icon=computer&color=00FF66&style=plastic" alt="Profile Views" />
-
 <br><br>
-
 <sub>⚙️ <i>Optimizing infrastructure, one commit at a time.</i></sub>
-
 </p>
