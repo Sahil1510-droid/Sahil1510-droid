@@ -22,6 +22,13 @@
 
 ---
 
+## 🏆 GitHub Milestones & Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sahil1510-droid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" width="100%" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 🛠️ The Tech Ecosystem
 
 ### 🧠 AI, Automation & Core Languages
@@ -64,11 +71,6 @@
     </td>
   </tr>
 </table>
-
-### 🏆 Earned Milestones
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sahil1510-droid&theme=dracula&no-frame=false&no-bg=true&margin-w=4&column=7" width="100%" alt="GitHub Trophies" />
-</p>
 
 ---
 
