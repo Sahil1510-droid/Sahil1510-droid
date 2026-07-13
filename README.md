@@ -85,11 +85,12 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=100&color=00FF66&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=100&color=00FF66&section=footer&animation=twinkling" width="100%" />
 </p>
 
 <!-- FOOTER VISITOR COUNTER -->
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=100&color=00FF66&section=footer&animation=twinkling" width="100%" />
   <img src="https://komarev.com/ghpvc/?username=Sahil1510-droid&icon=0&color=00FF66&style=flat-square" alt="Profile Views" />
   <br />
   <sub>💡 <i>Optimizing infrastructure, one commit at a time.</i></sub>
