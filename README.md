@@ -49,10 +49,6 @@
 <a href="https://homebridge.io"><img src="https://img.shields.io/badge/Homebridge-491F59?style=for-the-badge&logo=homebridge&logoColor=white" /></a>
 <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=slice&color=00FF66&height=30&section=footer" width="100%" />
-</p>
-
 ## 📊 Performance & Analytics
 
 <p align="center">
