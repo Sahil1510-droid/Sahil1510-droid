@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=180&color=00FF66&text=Sahil%20Bansal&fontColor=FF0000&fontSize=50&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=180&color=00FF66&text=Sahil%20Bansal&fontColor=0000FF&fontSize=50&animation=twinkling" width="100%" alt="Header Banner" />
 </p>
 
 <table align="center" width="100%" border="0">
