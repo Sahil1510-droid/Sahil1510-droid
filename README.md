@@ -21,6 +21,8 @@
     </td>
     <td valign="top" width="40%">
       <img src="https://github-readme-stats.shion.dev/api?username=Sahil1510-droid&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="Sahil's GitHub Stats" />
+      <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%"/>
+
     </td>
   </tr>
 </table>
