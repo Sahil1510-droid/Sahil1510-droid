@@ -9,8 +9,7 @@
       <h2>⚡ System Operator</h2>
       <h3>🤖 AI Automation Engineer & Full-Stack Developer</h3>
       <p>
-        <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00FF66&width=450&height=40&lines=Intersecting+AI%2C+Web3+%26+Code;Building+Scalable+Workflows;Data+Syncing+%26+Blockchain+Dev" alt="Typing SVG" /></a>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00FF66&width=450&height=40&lines=Intersecting+AI%2C+Web3+%26+Code;Building+Scalable+Workflows;Data+Syncing+%26+Blockchain+Dev" alt="Typing SVG" />
       </p>
       <p>
         I engineer intelligent systems designed to eliminate operational friction. Specializing in workflow automation, AI pipeline integration, and decentralized applications, I transform complex architectural problems into clean, high-performance codebases.
