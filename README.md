@@ -25,10 +25,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=slice&color=00FF66&height=30&section=footer" width="100%" />
-</p>
-
 ## 🛠️ The Tech Ecosystem
 
 ### 🧠 AI, Automation & Core Languages
