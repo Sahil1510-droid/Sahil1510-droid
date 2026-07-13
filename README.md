@@ -87,8 +87,9 @@
 
 <!-- FOOTER VISITOR COUNTER -->
 <p align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Sahil1510-droid&icon=terminal&color=121212&labelColor=00FF66&style=for-the-badge" alt="Profile Views" />
+  <code>⚡ SYSTEM STATUS: OPERATIONAL</code> 
   <br><br>
-  <blockquote>⚡ <b>Infrastructure Status:</b> Optimizing matrix, one commit at a time.</blockquote>
+  <img src="https://komarev.com/ghpvc/?username=Sahil1510-droid&icon=computer&color=00FF66&style=plastic" alt="Profile Views" />
+  <br><br>
+  <sub>⚙️ <i>Optimizing infrastructure, one commit at a time.</i></sub>
 </p>
