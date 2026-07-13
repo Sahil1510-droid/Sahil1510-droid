@@ -77,14 +77,15 @@
 
 <!-- FOOTER VISITOR COUNTER -->
 <p align="center">
-  <hr width="50%" style="border: 1px solid #00FF66;">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Sahil1510-droid&icon=computer&color=121212&labelColor=00FF66&style=for-the-badge" alt="Profile Views" />
-  <br><br>
-  <blockquote>
-    <b>Operational friction is a bug; automation is the patch.</b><br>
-    <i>Refactoring complex bottleneck architectures into lethal, high-performance codebases.</i>
-  </blockquote>
-  <br>
-  <sub>⚙️ <i>Optimizing infrastructure, one commit at a time.</i></sub>
+
+<code>⚡ SYSTEM STATUS: OPERATIONAL</code>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Sahil1510-droid&icon=computer&color=00FF66&style=plastic" alt="Profile Views" />
+
+<br><br>
+
+<sub>⚙️ <i>Optimizing infrastructure, one commit at a time.</i></sub>
+
 </p>
