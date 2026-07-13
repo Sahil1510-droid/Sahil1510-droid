@@ -1,4 +1,4 @@
-<!-- ANIMATED HEADER BANNER -->
+<!-- ANIMATED HEADER BANNER (Official Instance) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/type=wave&color=00FF66&height=180&section=header&text=SAHIL%20BANSAL&fontSize=50&animation=twinkle&fontColor=0d1117" width="100%" alt="Header Banner" />
 </p>
@@ -21,7 +21,8 @@
       <a href="https://instagram.com/sahilbansal.sb" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
     </td>
     <td valign="top" width="40%">
-      <img src="https://github-readme-stats.shion.dev/api?username=Sahil1510-droid&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="Sahil's GitHub Stats" />
+      <!-- Standard Upstream GitHub Readme Stats Instance -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Sahil1510-droid&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="Sahil's GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -52,7 +53,7 @@
 ### 🌐 Web Frameworks & Databases
 <a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
 <a href="https://wordpress.org"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
-<a href="https://mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+<a href="https://mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&width=100&logoColor=white" /></a>
 <a href="https://mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
 <a href="https://sass-lang.org"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></a>
@@ -76,7 +77,7 @@
 <table width="100%" border="0">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sahil1510-droid&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil1510-droid&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" alt="Top Languages" />
     </td>
     <td width="50%" valign="top">
       <img src="https://streak-stats.demolab.com/?user=Sahil1510-droid&theme=radical&hide_border=false" width="100%" alt="GitHub Streak" />
