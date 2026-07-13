@@ -1,33 +1,43 @@
-<table align="center" width="100%">
+<!-- ANIMATED HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=wave&color=00FF66&height=180&section=header&text=SAHIL%20BANSAL&fontSize=50&animation=twinkle&fontColor=0d1117" width="100%" alt="Header Banner" />
+</p>
+
+<table align="center" width="100%" border="0">
   <tr>
     <td valign="top" width="60%">
-      <h1>⚡ Sahil Bansal</h1>
+      <h2>⚡ System Operator</h2>
       <h3>🤖 AI Automation Engineer & Full-Stack Developer</h3>
       <p>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&width=450&height=40&lines=Intersecting+AI%2C+Web3+%26+Code;Building+Scalable+Workflows;Data+Syncing+%26+Blockchain+Dev" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00FF66&width=450&height=40&lines=Intersecting+AI%2C+Web3+%26+Code;Building+Scalable+Workflows;Data+Syncing+%26+Blockchain+Dev" alt="Typing SVG" />
       </p>
       <p>
         I engineer intelligent systems designed to eliminate operational friction. Specializing in workflow automation, AI pipeline integration, and decentralized applications, I transform complex architectural problems into clean, high-performance codebases.
       </p>
       <br>
-      <a href="https://linkedin.com/in/sahil-bansal-224853218"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+      <!-- INTERACTIVE SOCIAL CAPSULES -->
+      <a href="https://linkedin.com/in/sahil-bansal-224853218" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
       <a href="mailto:sahilbansal152001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-      <a href="https://instagram.com/sahilbansal.sb"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+      <a href="https://instagram.com/sahilbansal.sb" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
     </td>
     <td valign="top" width="40%">
-      <img src="https://github-readme-stats.shion.dev/api?username=Sahil1510-droid&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="Sahil's GitHub Stats" />
+      <img src="https://github-readme-stats.shion.dev/api?username=Sahil1510-droid&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="Sahil's GitHub Stats" />
     </td>
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=slice&color=00FF66&height=30&section=footer" width="100%" />
+</p>
 
 ## 🏆 GitHub Milestones & Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sahil1510-droid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sahil1510-droid&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" width="100%" alt="GitHub Trophies" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=slice&color=00FF66&height=30&section=footer" width="100%" />
+</p>
 
 ## 🛠️ The Tech Ecosystem
 
@@ -53,27 +63,32 @@
 <a href="https://homebridge.io"><img src="https://img.shields.io/badge/Homebridge-491F59?style=for-the-badge&logo=homebridge&logoColor=white" /></a>
 <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=slice&color=00FF66&height=30&section=footer" width="100%" />
+</p>
 
 ## 📊 Performance & Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil1510-droid&theme=tokyonight&area=true&category=commits" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil1510-droid&theme=radical&area=true&category=commits" width="100%" alt="Contribution Graph" />
 </p>
 
-<table width="100%">
+<table width="100%" border="0">
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sahil1510-droid&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" alt="Top Languages" />
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sahil1510-droid&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" alt="Top Languages" />
     </td>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com/?user=Sahil1510-droid&theme=tokyonight&hide_border=false" width="100%" alt="GitHub Streak" />
+    <td width="50%" valign="top">
+      <img src="https://streak-stats.demolab.com/?user=Sahil1510-droid&theme=radical&hide_border=false" width="100%" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=wave&color=00FF66&height=100&section=footer" width="100%" />
+</p>
 
+<!-- FOOTER VISITOR COUNTER -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sahil1510-droid&icon=0&color=00FF66&style=flat-square" alt="Profile Views" />
   <br />
