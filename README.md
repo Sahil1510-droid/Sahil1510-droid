@@ -11,8 +11,7 @@
       <p>
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00FF66&width=450&height=40&lines=Intersecting+AI%2C+Web3+%26+Code;Building+Scalable+Workflows;Data+Syncing+%26+Blockchain+Dev" alt="Typing SVG" />
       </p>
-      <p>
-        I engineer intelligent systems designed to eliminate operational friction. Specializing in workflow automation, AI pipeline integration, and decentralized applications, I transform complex architectural problems into clean, high-performance codebases.
+      <p> I architect high-velocity systems engineered to obliterate operational friction. Specializing in autonomous workflows, AI pipeline engineering, and decentralized infrastructure, I forge complex system bottlenecks into clean, high-performance execution layers.
       </p>
       <br>
       <!-- INTERACTIVE SOCIAL CAPSULES -->
