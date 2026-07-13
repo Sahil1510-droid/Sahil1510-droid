@@ -30,15 +30,6 @@
   <img src="https://capsule-render.vercel.app/type=slice&color=00FF66&height=30&section=footer" width="100%" />
 </p>
 
-## 🏆 GitHub Milestones & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sahil1510-droid&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" width="100%" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=slice&color=00FF66&height=30&section=footer" width="100%" />
-</p>
-
 ## 🛠️ The Tech Ecosystem
 
 ### 🧠 AI, Automation & Core Languages
