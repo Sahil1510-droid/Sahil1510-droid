@@ -80,20 +80,20 @@
   </tr>
 </table>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sahil1510-droid&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
+</p> -->
 
 <!-- CONTRIBUTION SNAKE ANIMATION -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Sahil1510-droid/Sahil1510-droid/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation" />
 </p>
-<sub align="center">↳ Add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to your repo to auto-generate this snake from your real contribution graph.</sub>
+<sub align="center">↳ Add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to your repo to auto-generate this snake from your real contribution graph.</sub> -->
 
 <!-- WAKATIME / CODING TIME (optional widget) -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/wakatime?username=Sahil1510-droid&theme=radical&hide_border=false&layout=compact" width="60%" alt="Coding time" />
-</p>
+</p> -->
 
 <!-- ANIMATED FOOTER BANNER -->
 <p align="center">
